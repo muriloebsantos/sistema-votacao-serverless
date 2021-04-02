@@ -8,4 +8,8 @@
     <ProjectReference Include="..\SistemaVotacao.Application\SistemaVotacao.Application.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.DynamoDBv2" Version="3.7.0.6" />
+  </ItemGroup>
+
 </Project>
