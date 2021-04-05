@@ -15,7 +15,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\SistemaVotacao.Application\SistemaVotacao.Application.csproj" />
-    <ProjectReference Include="..\SistemaVotacao.Repository\SistemaVotacao.DataAccess.csproj" />
+    <ProjectReference Include="..\SistemaVotacao.DataAccess\SistemaVotacao.DataAccess.csproj" />
   </ItemGroup>
 </Project>
 

@@ -4,7 +4,6 @@ using Microsoft.Extensions.DependencyInjection;
 using Newtonsoft.Json;
 using SistemaVotacao.Application.Models.Requests;
 using SistemaVotacao.Application.Services;
-using SistemaVotacao.DataAccess;
 using System.Threading.Tasks;
 
 namespace SistemaVotacao.Lambda.Functions

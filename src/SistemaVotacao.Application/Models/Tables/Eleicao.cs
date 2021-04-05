@@ -3,7 +3,7 @@ using System;
 
 namespace SistemaVotacao.Application.Models.Tables
 {
-    [DynamoDBTable("sv_eleicao")]
+    [DynamoDBTable("sv2_eleicao")]
     public class Eleicao
     {
         [DynamoDBHashKey]
